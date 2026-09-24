@@ -560,6 +560,7 @@ Build beautiful, usable products using [Material Design Components](https://m2.m
 ## Security
 
 - [JavaScript obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A tool for obfuscating JavaScript code to protect application logic and make reverse-engineering more difficult.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Testing
 
